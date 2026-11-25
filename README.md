@@ -1,5 +1,4 @@
 # IBM-Data-Analyst-Capstone-Project
-# IBM Data Analyst Capstone Project
 
 Capstone project for the IBM Data Analyst Professional Certificate on Coursera.
 It covers data collection, wrangling, analysis and visualization, and finishes
